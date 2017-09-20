@@ -1,0 +1,14 @@
+{
+    "title": "Project 1",
+    "baseURL": "https:\/\/one.com\/one",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "firstpartycookies": true,
+        "cookiedomain": "one.com"
+    }
+}
